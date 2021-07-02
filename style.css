@@ -1,0 +1,38 @@
+body {
+    height: 97vh;
+    font-family: poppins;
+    align-items: center;
+    /* -webkit-user-select:none; */
+    /* -moz-user-select:-moz-none; */
+    /* -ms-user-select:none; */
+    user-select:none
+}
+
+button {
+    font-size: 300px;
+    background: rgba(0,0,0,0);
+    border: 0;
+    letter-spacing: 50px;
+    text-align: center;
+    padding: 1px ;
+    opacity: 0.1;
+    margin-top: 100px;
+    
+
+}
+
+.button {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.p {
+    
+    margin-top: 150px;
+    font-weight: 500;
+    letter-spacing: 6px;
+}
+p{
+    text-align: center;
+    text-shadow: 1px 1px 10px rgb(83, 83, 83);
+}
